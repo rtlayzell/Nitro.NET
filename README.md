@@ -1,4 +1,4 @@
-## Nitro.NET
+## Nitro.NET [![Build Status](https://travis-ci.org/rtlayzell/Nitro.NET.svg?branch=master)](https://travis-ci.org/rtlayzell/Nitro.NET)
 
 Nitro.NET supplies a set of class libraries to read/write the contents of Nintendo DS ROMS ("Games")
 into easily consumable .NET components.  The intent is to allow developers to easily construct tools 
