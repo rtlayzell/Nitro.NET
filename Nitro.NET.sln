@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nitro.IO", "Nitro.IO\Nitro.IO.csproj", "{B659EF3D-D041-4F48-80BA-18EF0638D835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Samples\Sample\Sample.csproj", "{72B31B9C-719F-42E2-AC81-A4F1B60FAAA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nitro.Media", "Nitro.Media\Nitro.Media.csproj", "{130E5F2A-10AB-4E38-9084-1850357E381B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B659EF3D-D041-4F48-80BA-18EF0638D835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B659EF3D-D041-4F48-80BA-18EF0638D835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B659EF3D-D041-4F48-80BA-18EF0638D835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B659EF3D-D041-4F48-80BA-18EF0638D835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B31B9C-719F-42E2-AC81-A4F1B60FAAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B31B9C-719F-42E2-AC81-A4F1B60FAAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B31B9C-719F-42E2-AC81-A4F1B60FAAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B31B9C-719F-42E2-AC81-A4F1B60FAAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{130E5F2A-10AB-4E38-9084-1850357E381B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130E5F2A-10AB-4E38-9084-1850357E381B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130E5F2A-10AB-4E38-9084-1850357E381B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130E5F2A-10AB-4E38-9084-1850357E381B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
